@@ -2,7 +2,7 @@
 
 ## Multiplicative-Entropy-Driven Invariant-Topology Two-Layer Chiral-Space (MITC) Model Introduction
 
-The MITC model, standing for Multiplicative-Entropy-Driven Invariant-Topology Chiral-Space model, is a theoretical framework designed to unify general relativity and quantum field theory through a novel two-layer structure of spacetime. This dual-layer architecture is central to its approach: one elastic layer captures the geometric nature of gravity as described by general relativity, while the quantum layer composed of elastic layer accommodates the gauge symmetries that underlie quantum field theory. By separating but connecting these aspects in a shared chiral and topologically invariant space, the model enables compatibility between spacetime geometry and discrete quantum dynamics.
+The MITC model, standing for Multiplicative-Entropy-Driven Invariant-Topology Chiral-Space model, is a theoretical framework designed to unify general relativity and quantum field theory through a novel two-layer structure of spacetime. 
 
 A defining feature of the MITC model is its treatment of entropy not as a sum over states, but as a multiplicative function of energy distributions across fundamental spacetime units called Space Elementary Quanta. This multiplicative form allows for a high resolution representation of time evolution, where each moment corresponds to the update of the quantum network's energy redistribution. In this way, the increase of entropy becomes directly linked to the forward progression of time, offering a clear physical picture of irreversibility rooted in microscopic changes.
 
